@@ -2,13 +2,13 @@
 
 **`Analista de Qualidade de Software (QA)`**
 
-Me chamo Uriel Sampaio, sou de Barueri - São Paulo e estou me especializando na área de Qualidade de Software pela escola **E2E**.  
-Atualmente foco meus estudos em **testes manuais**, **automação de testes**, **testes de API** e **backend com Java (Spring Boot)**.  
-Participo de projetos reais, contribuindo com execução de testes e abertura de issues em aplicações em produção.
+Atuo como QA com foco em **garantia da qualidade de software**, aplicando técnicas de testes manuais e automatizados.  
+Tenho experiência com **testes funcionais, exploratórios, regressão e testes de API**, além de trabalhar com **backend em Java (Spring Boot)**.  
+Participo de projetos reais, executando casos de testes, levantando massa de dados, registrando bugs e colaborando com times de desenvolvimento através do GitHub.  
 
----
+---  
 
-### 🔧 Tecnologias e Ferramentas
+### 🧰 Tecnologias e Ferramentas
 
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -43,12 +43,12 @@ Participo de projetos reais, contribuindo com execução de testes e abertura de
 
 ---
 
-### 📌 Em breve nos repositórios
+### 📌 Repositórios em construção:
 
-- Exemplos de casos de teste manuais
+- Casos de teste manuais escritos em **Gherkin, passo a passo e checklist**
 - Scripts de automação com **Selenium + JUnit**
 - Testes de API com **Postman**
-- Projetos backend com **Java + Spring Boot**
+- Projeto backend com **Spring Boot** para testes integrados
 
 ---
 
