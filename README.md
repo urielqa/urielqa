@@ -2,7 +2,7 @@
 
 **Analista de Qualidade de Software | QA Engineer**  
 📍 Barueri - São Paulo  
-📧 uriel.sampaio2328@gmail.com  
+📧 urielsqa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/uriel-sampaio-728184356/) | [GitHub](https://github.com/urielqa)
 
 ---
