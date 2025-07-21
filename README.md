@@ -1,12 +1,17 @@
 # 🧪 Uriel Sampaio
 
-**`Analista de Qualidade de Software (QA)`**
+**Analista de Qualidade de Software | QA Engineer**  
+📍 Barueri - São Paulo  
+📧 urielurielsqa@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/uriel-sampaio-728184356/) | [GitHub](https://github.com/urielqa)
+
+---
 
 Atuo como QA com foco em **garantia da qualidade de software**, aplicando técnicas de testes manuais e automatizados.  
 Tenho experiência com **testes funcionais, exploratórios, regressão e testes de API**, além de trabalhar com **backend em Java (Spring Boot)**.  
-Participo de projetos reais, executando casos de testes, levantando massa de dados, registrando bugs e colaborando com times de desenvolvimento através do GitHub.  
+Participo de projetos reais, executando casos de testes, levantando massa de dados, registrando bugs e colaborando com times de desenvolvimento através do GitHub.
 
----  
+---
 
 ### 🧰 Tecnologias e Ferramentas
 
