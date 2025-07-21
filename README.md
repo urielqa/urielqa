@@ -1,8 +1,8 @@
-# 🧪 Uriel Sampaio
+# Uriel Sampaio
 
 **Analista de Qualidade de Software | QA Engineer**  
 📍 Barueri - São Paulo  
-📧 urielurielsqa@gmail.com 
+📧 uriel.sampaio2328@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/uriel-sampaio-728184356/) | [GitHub](https://github.com/urielqa)
 
 ---
@@ -13,7 +13,7 @@ Participo de projetos reais, executando casos de testes, levantando massa de dad
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -29,26 +29,7 @@ Participo de projetos reais, executando casos de testes, levantando massa de dad
 
 ---
 
-### 📈 Estatísticas GitHub
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=urielqa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielqa&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
-</p>
-
----
-
-### 📌 Repositórios em construção:
+### Repositórios em construção:
 
 - Casos de teste manuais escritos em **Gherkin, passo a passo e checklist**
 - Scripts de automação com **Selenium + JUnit**
@@ -57,4 +38,4 @@ Participo de projetos reais, executando casos de testes, levantando massa de dad
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
