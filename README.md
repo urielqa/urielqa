@@ -1,13 +1,6 @@
 
 # 👋 Olá, eu sou o Uriel Sampaio!
 
-Sou Analista de Qualidade de Software (QA Engineer) com foco em **garantia da qualidade**, **automação de testes** e **colaboração com equipes ágeis**. Minha missão é apoiar o desenvolvimento de produtos confiáveis, eficientes e com alta rastreabilidade, sempre buscando excelência em cada entrega.
-
----
-
-
-## 📝 Sobre mim
-
 Sou QA Engineer com foco em Qualidade de Software e Automação de Testes, dedicado a apoiar equipes ágeis na entrega de produtos confiáveis e eficientes ao longo de todo o Ciclo de Vida do Desenvolvimento de Software (SDLC).
 
 Tenho experiência em testes manuais e automatizados, incluindo funcionais (UI), de regressão, exploratórios e de API, contribuindo para a qualidade ponta a ponta. Colaboro diretamente com Product Owners e desenvolvedores na análise de requisitos, refinamento de histórias de usuário e definição de estratégias de testes baseadas em risco.
