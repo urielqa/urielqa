@@ -39,7 +39,7 @@ Meu background técnico em Java + Spring Boot (back-end) e JavaScript/HTML/CSS (
 Aqui você encontra alguns dos meus projetos e materiais sobre qualidade de software, automação e boas práticas em QA:
 
 - **Casos de teste manuais:** Gherkin, checklist e passo a passo ([ver repositório](https://github.com/urielqa/Casos-de-teste-manuais))
-- **Automação de testes:** Scripts com Selenium + JUnit, Cypress e Playwright
+- **Automação de testes:** Scripts com Selenium + JUnit, Cypress e Playwright ([ver repositório](https://github.com/urielqa/Automacao-de-testes))
 - **Testes de API:** Coleções e scripts no Postman e RestAssured
 - **Projetos backend:** Spring Boot para testes integrados e APIs
 - **Guias e artigos:** Estratégias de testes, automação, integração CI/CD e dicas para QAs
