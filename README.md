@@ -1,9 +1,9 @@
 
 <div align="center">
 
-#   Uriel Sampaio
+# 🚀 Uriel Sampaio
 
-### Software QA Engineer | Testes Manuais e Automatizados | Cypress | Playwright | API | CI/CD
+### Engenheiro de Qualidade de Software com foco em testes manuais e automatizados. | Cypress | Playwright | API | CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urielqa)
@@ -131,9 +131,14 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 |----------------|--------------|-----------------|
 | [**💼 E2E Code Brokers**](https://github.com/urielqa/E2E-Code-Brokers) | `HTML5` `CSS3` `JS` `TradingView` | Plataforma de trading com validações B3 |
 | [**🛒 E2E Shop**](https://github.com/urielqa/E2EShop) | `HTML` `CSS` `JavaScript` | E-commerce completo em squad |
-| [**🚀 QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio) | `Cypress` `Playwright` `API` `CI/CD` | Showcase profissional com pipeline |
-| [**🔧 Automação de Testes**](https://github.com/urielqa/Automacao-de-testes) | `Selenium` `JUnit` `Cypress` `Playwright` | Exemplos práticos e completos |
+| [**🚀 QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio) | `Cypress` `Playwright` `API` `CI/CD` | **Showcase principal** com pipeline |
 | [**📋 Casos de Teste Manuais**](https://github.com/urielqa/Casos-de-teste-manuais) | `Gherkin` `BDD` `Checklist` | Documentação QA profissional |
+
+### 🔧 **Projetos Complementares**
+
+| 🎯 **Projeto** | 🛠️ **Stack** | 🚀 **Foco** |
+|----------------|--------------|-------------|
+| [**🔧 Automação de Testes**](https://github.com/urielqa/Automacao-de-testes) | `Selenium` `JUnit` `Java` | **Automação Java** e exemplos clássicos |
 
 </div>
 
@@ -142,9 +147,9 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 ```diff
 + 💼 E2E Code Brokers: Trading platform com validações B3 e QA Ready
 + 🛒 E2E Shop: E-commerce desenvolvido em squad com foco em qualidade  
-+ 🚀 QA Portfolio: Showcase com Cypress, Playwright, API Testing e CI/CD
-+ 🔧 Automação: Exemplos práticos com Selenium, JUnit, Cypress, Playwright
++ 🚀 QA Portfolio: Showcase PRINCIPAL com Cypress, Playwright, API Testing e CI/CD
 + 📋 Casos Manuais: Gherkin, BDD, Checklist para colaboração QA-Dev-PO
++ 🔧 Automação Java: Exemplos complementares com Selenium e JUnit
 ```
 
 ---
