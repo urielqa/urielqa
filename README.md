@@ -1,5 +1,5 @@
 
-# 🚀 Uriel Sampaio
+#  Uriel Sampaio
 ## Software QA Engineer | Testes Manuais e Automatizados | Cypress | Playwright | API | CI/CD
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 12 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
+Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 14 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
 Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
 
 **Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
