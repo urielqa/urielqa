@@ -1,6 +1,6 @@
 
 # 🚀 Uriel Sampaio
-## Engenheiro de Qualidade de Software | Testes Manuais e Automatizados | Automação com Cypress, Playwright e BDD
+## Software QA Engineer | Testes Manuais e Automatizados | Cypress | Playwright | API | CI/CD
 
 <div align="center">
   
@@ -20,7 +20,7 @@
 Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 12 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
 Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
 
-**Meu diferencial**: Vindo do empreendedorismo, tenho uma postura muito proativa e foco total em resultado. Enquanto muitos esperam uma ordem, eu penso no impacto do sistema no cliente final e busco entregar uma aplicação funcional, validada e segura.
+**Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
 
 Especializado em **Cypress**, **Playwright**, **Selenium** e **BDD (Cucumber)**, com domínio de **testes de API (Postman, RestAssured)** e **integração contínua (GitHub Actions, Jenkins, Docker)**.  
 Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção da feature até a entrega em produção, sempre com foco em **liderança técnica** e **qualidade contínua**.
@@ -46,40 +46,26 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 
 ## 🛠️ Stack Tecnológica
 
-### 🔧 Automação & Testes
+### 🎯 **Principais Stacks**
 <p align="left">
   <img alt="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"/>
   <img alt="Playwright" width="40px" src="https://playwright.dev/img/playwright-logo.svg"/>
-  <img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-  <img alt="Cucumber" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
-</p>
-
-### 💻 Linguagens
-<p align="left">
-  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</p>
-
-### 🧩 APIs & Backend
-<p align="left">
   <img alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
-  <img alt="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
-  <img alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</p>
-
-### 🗄️ Banco de Dados
-<p align="left">
-  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</p>
-
-### 🚀 CI/CD & DevOps
-<p align="left">
-  <img alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</p>
+
+### 🔧 **Ferramentas Complementares**
+<p align="left">
+  <img alt="Selenium" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  <img alt="Cucumber" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
+  <img alt="RestAssured" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="GitHub Actions" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
 
 ---
@@ -119,12 +105,36 @@ E-commerce completo desenvolvido em squad com foco em testes e qualidade.
 
 ---
 
+### 🚀 [**QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio)  
+Repositório de demonstração com exemplos práticos de automação de testes.  
+💻 **Tecnologias**: Cypress, Playwright, Postman, RestAssured, GitHub Actions  
+🧩 **Funcionalidades**: Testes E2E, API Testing, CI/CD Pipeline, Relatórios automatizados.  
+🤖 **Showcase Profissional**: Estrutura completa com scripts executáveis e pipeline configurado.
+
+---
+
+### 🔧 [**Automação de Testes**](https://github.com/urielqa/Automacao-de-testes)  
+Exemplos práticos de automação com Selenium + JUnit, Cypress e Playwright.  
+💻 **Tecnologias**: Selenium, JUnit, Cypress, Playwright, JavaScript, Java  
+🧩 **Funcionalidades**: Testes Web, API, CI/CD, Page Object, BDD  
+🤖 **Cobertura Completa**: Scripts para diferentes cenários e aplicações.
+
+---
+
+### 📋 [**Casos de Teste Manuais**](https://github.com/urielqa/Casos-de-teste-manuais)  
+Repositório com exemplos de casos de teste em três formatos principais.  
+💻 **Formatos**: Gherkin (BDD), Checklist, Step by Step  
+🧩 **Funcionalidades**: Casos funcionais, regressão, exploratórios  
+🤖 **Colaboração**: Comunicação clara entre QA, Dev e PO.
+
+---
+
 ## 🧠 Experiência com IA Generativa
 
-- ✅ Geração de **cenários de teste inteligentes** com IA  
-- ✅ **Automação assistida** com LLMs (Cypress, Playwright)  
-- ✅ Análise e refatoração de código com Copilot  
-- ✅ **Documentação automatizada** e identificação de falhas  
+- ✅ **Aplicação prática**: Uso de LLMs para gerar cenários e otimizar scripts no Playwright, **economizando 40% de tempo** de escrita de testes
+- ✅ **Automação assistida** com LLMs (Cypress, Playwright) para criação de casos de teste  
+- ✅ **Análise inteligente** de código com Copilot para identificação de falhas
+- ✅ **Documentação automatizada** de processos e relatórios de qualidade  
 
 ---
 
