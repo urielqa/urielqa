@@ -1,13 +1,16 @@
 
-# 🚀 Uriel Sampaio
-## Software QA Engineer | Testes Manuais e Automatizados | Cypress | Playwright | API | CI/CD
-
 <div align="center">
-  
+
+# 🚀 Uriel Sampaio
+
+### Software QA Engineer | Testes Manuais e Automatizados | Cypress | Playwright | API | CI/CD
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urielqa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urielsqa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947013629)
+
+---
 
 📍 **Itapevi - SP** | 🎯 **Foco em Testes Manuais e Automatizados | Qualidade e Eficiência**
 
@@ -17,10 +20,24 @@
 
 ## 👨‍💻 Sobre Mim
 
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 QA Engineer] --> B[🔧 Automação]
+    A --> C[🧪 Testes Manuais]
+    A --> D[🤖 IA Generativa]
+    B --> E[📊 Qualidade Contínua]
+    C --> E
+    D --> E
+```
+
+</div>
+
 Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 12 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
 Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
 
-**Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
+> **💡 Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
 
 Especializado em **Cypress**, **Playwright**, **Selenium** e **BDD (Cucumber)**, com domínio de **testes de API (Postman, RestAssured)** e **integração contínua (GitHub Actions, Jenkins, Docker)**.  
 Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção da feature até a entrega em produção, sempre com foco em **liderança técnica** e **qualidade contínua**.
@@ -29,18 +46,31 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 
 ## 🎯 Principais Competências
 
-- ✅ **Testes Automatizados e Manuais**: E2E, regressão, exploratório e smoke tests  
-- ✅ **BDD & Gherkin**: Comunicação clara entre Devs, QA e PO  
-- ✅ **API Testing**: REST, Postman, Swagger, RestAssured  
-- ✅ **CI/CD & DevOps**: GitHub Actions, Jenkins, Docker  
-- ✅ **Metodologias Ágeis**: Scrum, Kanban  
-- ✅ **IA Generativa**: Uso de LLMs para gerar cenários, scripts e documentações de teste
+<div align="center">
+
+| 🔧 **Automação** | 🧪 **Testes** | 🚀 **DevOps** | 🤖 **IA** |
+|------------------|---------------|---------------|-----------|
+| ✅ E2E, Regressão | ✅ Exploratório, Smoke | ✅ CI/CD, Docker | ✅ LLMs, Cenários |
+| ✅ BDD & Gherkin | ✅ API Testing | ✅ GitHub Actions | ✅ Scripts IA |
+| ✅ Cypress, Playwright | ✅ Postman, RestAssured | ✅ Jenkins, Azure | ✅ Documentação |
+
+</div>
 
 ---
 
 ## 🎯 Minha Missão como QA
 
+<div align="center">
+
+```diff
++ 🎯 MISSÃO: Garantir confiança e qualidade para o usuário final
++ ⚡ FOCO: Eficiência técnica + Impacto real no cliente  
++ 🚀 APLICAÇÃO: Liderança técnica + Qualidade contínua
+```
+
 > *"Minha missão como QA é garantir que o sistema entregue gere **confiança e qualidade** para o usuário final. Busco sempre o equilíbrio entre **eficiência técnica** e **impacto real no cliente**, aplicando **liderança técnica** e **qualidade contínua** em todos os projetos."*
+
+</div>
 
 ---
 
@@ -79,65 +109,70 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 
 ## 🏆 Principais Conquistas
 
-| 🥇 **Conquista** | 💡 **Resultado / Impacto** |
-|------------------|-----------------------------|
-| Implementação de +50 testes automatizados | Redução de 30% no tempo de regressão |
-| Introdução de BDD em projetos ágeis | Maior clareza entre QA, Dev e PO |
-| Estruturação de pipeline CI/CD | Integração contínua e feedback rápido |
-| Testes multiplataforma (Web, API, Mobile) | Cobertura completa de qualidade |
-| Aplicação de IA em QA | Geração de testes e relatórios automatizados |
+<div align="center">
+
+| 🥇 **Conquista** | 📊 **Métrica** | 💡 **Impacto** |
+|------------------|---------------|----------------|
+| 🚀 **+50 Testes Automatizados** | `30%` redução | Tempo de regressão otimizado |
+| 🎯 **BDD em Projetos Ágeis** | `100%` clareza | Comunicação QA-Dev-PO |
+| ⚙️ **Pipeline CI/CD** | `24/7` execução | Feedback contínuo |
+| 🌐 **Multiplataforma** | `3` ambientes | Cobertura completa |
+| 🤖 **IA em QA** | `40%` economia | Automação inteligente |
+
+</div>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 💼 [**E2E Code Brokers**](https://github.com/urielqa/E2E-Code-Brokers)  
-Plataforma simulada de **trading** com foco em **qualidade e validações B3**.  
-💻 **Tecnologias**: HTML5, CSS3, JavaScript ES6+, TradingView, Particles.js  
-🧩 **Funcionalidades**: Login seguro, dashboard dinâmico, book de ofertas, validações B3, histórico e perfil de usuário.  
-🤖 **QA Ready**: Preparado para testes E2E com Cypress, Playwright e Selenium.  
-⚙️ **Desenvolvimento com IA**: Criação assistida de código, cenários e documentação.
+<div align="center">
 
----
+| 🎯 **Projeto** | 🛠️ **Stack** | 🚀 **Destaque** |
+|----------------|--------------|-----------------|
+| [**💼 E2E Code Brokers**](https://github.com/urielqa/E2E-Code-Brokers) | `HTML5` `CSS3` `JS` `TradingView` | Plataforma de trading com validações B3 |
+| [**🛒 E2E Shop**](https://github.com/urielqa/E2EShop) | `HTML` `CSS` `JavaScript` | E-commerce completo em squad |
+| [**🚀 QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio) | `Cypress` `Playwright` `API` `CI/CD` | Showcase profissional com pipeline |
+| [**🔧 Automação de Testes**](https://github.com/urielqa/Automacao-de-testes) | `Selenium` `JUnit` `Cypress` `Playwright` | Exemplos práticos e completos |
+| [**📋 Casos de Teste Manuais**](https://github.com/urielqa/Casos-de-teste-manuais) | `Gherkin` `BDD` `Checklist` | Documentação QA profissional |
 
-### 🛒 [**E2E Shop**](https://github.com/urielqa/E2EShop)  
-E-commerce completo desenvolvido em squad com foco em testes e qualidade.  
-💻 **Tecnologias**: HTML, CSS, JavaScript  
-🧩 **Funcionalidades**: Autenticação, catálogo com filtros, carrinho e checkout.  
-🤖 **Desenvolvimento com IA**: Uso de LLMs para gerar cenários e scripts de teste automatizados.
+</div>
 
----
+### 🔥 **Highlights dos Projetos**
 
-### 🚀 [**QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio)  
-Repositório de demonstração com exemplos práticos de automação de testes.  
-💻 **Tecnologias**: Cypress, Playwright, Postman, RestAssured, GitHub Actions  
-🧩 **Funcionalidades**: Testes E2E, API Testing, CI/CD Pipeline, Relatórios automatizados.  
-🤖 **Showcase Profissional**: Estrutura completa com scripts executáveis e pipeline configurado.
-
----
-
-### 🔧 [**Automação de Testes**](https://github.com/urielqa/Automacao-de-testes)  
-Exemplos práticos de automação com Selenium + JUnit, Cypress e Playwright.  
-💻 **Tecnologias**: Selenium, JUnit, Cypress, Playwright, JavaScript, Java  
-🧩 **Funcionalidades**: Testes Web, API, CI/CD, Page Object, BDD  
-🤖 **Cobertura Completa**: Scripts para diferentes cenários e aplicações.
-
----
-
-### 📋 [**Casos de Teste Manuais**](https://github.com/urielqa/Casos-de-teste-manuais)  
-Repositório com exemplos de casos de teste em três formatos principais.  
-💻 **Formatos**: Gherkin (BDD), Checklist, Step by Step  
-🧩 **Funcionalidades**: Casos funcionais, regressão, exploratórios  
-🤖 **Colaboração**: Comunicação clara entre QA, Dev e PO.
+```diff
++ 💼 E2E Code Brokers: Trading platform com validações B3 e QA Ready
++ 🛒 E2E Shop: E-commerce desenvolvido em squad com foco em qualidade  
++ 🚀 QA Portfolio: Showcase com Cypress, Playwright, API Testing e CI/CD
++ 🔧 Automação: Exemplos práticos com Selenium, JUnit, Cypress, Playwright
++ 📋 Casos Manuais: Gherkin, BDD, Checklist para colaboração QA-Dev-PO
+```
 
 ---
 
 ## 🧠 Experiência com IA Generativa
 
-- ✅ **Aplicação prática**: Uso de LLMs para gerar cenários e otimizar scripts no Playwright, **economizando 40% de tempo** de escrita de testes
-- ✅ **Automação assistida** com LLMs (Cypress, Playwright) para criação de casos de teste  
-- ✅ **Análise inteligente** de código com Copilot para identificação de falhas
-- ✅ **Documentação automatizada** de processos e relatórios de qualidade  
+<div align="center">
+
+```mermaid
+graph TD
+    A[🤖 IA Generativa] --> B[📝 Geração de Cenários]
+    A --> C[⚡ Automação Assistida]
+    A --> D[🔍 Análise Inteligente]
+    A --> E[📊 Documentação Auto]
+    B --> F[40% Economia de Tempo]
+    C --> F
+    D --> F
+    E --> F
+```
+
+</div>
+
+| 🎯 **Aplicação** | 📊 **Métrica** | 🚀 **Resultado** |
+|------------------|---------------|------------------|
+| **📝 Geração de Cenários** | `40%` economia | Scripts Playwright otimizados |
+| **⚡ Automação Assistida** | `LLMs` integrados | Cypress + Playwright |
+| **🔍 Análise Inteligente** | `Copilot` ativo | Identificação de falhas |
+| **📊 Documentação Auto** | `100%` cobertura | Processos e relatórios |  
 
 ---
 
@@ -184,21 +219,30 @@ Repositório com exemplos de casos de teste em três formatos principais.
 
 <div align="center">
 
+```diff
++ 🚀 Pronto para colaborar em projetos de qualidade!
++ 💡 Vamos discutir automação, testes e inovação em QA
++ 🤝 Conecte-se e vamos criar algo incrível juntos
+```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:urielsqa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5511947013629)
 
-**📧 Email**: urielsqa@gmail.com  
-**📱 WhatsApp**: +55 11 94701-3629  
-**📍 Localização**: Itapevi - SP, Brasil
+---
 
-</div>
+**📧 Email**: `urielsqa@gmail.com`  
+**📱 WhatsApp**: `+55 11 94701-3629`  
+**📍 Localização**: `Itapevi - SP, Brasil`
 
 ---
 
+### ⭐ "Qualidade não é acidente — é o resultado de esforço inteligente." ⭐  
+
 <div align="center">
 
-### ⭐ "Qualidade não é acidente — é o resultado de esforço inteligente." ⭐  
-Feito com ❤️ por **Uriel Sampaio**
+**Feito com ❤️ por [Uriel Sampaio](https://github.com/urielqa)**
+
+![Profile Views](https://komarev.com/ghpvc/?username=urielqa&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
