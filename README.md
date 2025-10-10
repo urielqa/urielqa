@@ -1,5 +1,5 @@
 
-#  Uriel Sampaio
+# 🚀 Uriel Sampaio
 ## Engenheiro de Qualidade de Software | QA Engineer
 
 <div align="center">
@@ -31,112 +31,68 @@ Sou **Engenheiro de Qualidade de Software** com ampla experiência em testes man
 
 ## 🛠️ Stack Tecnológica
 
-### **Automação & Frameworks de Teste**
+### **🔧 Automação & Testes**
 <p align="left">
-  <img alt="Cypress" title="Cypress" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
-  <img alt="Playwright" title="Playwright" width="50px" src="https://playwright.dev/img/playwright-logo.svg" />
-  <img alt="Selenium" title="Selenium" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-  <img alt="Cucumber" title="Cucumber" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-  <img alt="TestNG" title="TestNG" width="50px" src="https://testng.org/img/testng-logo.png" />
-  <img alt="JUnit" title="JUnit" width="50px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
-  <img alt="RestAssured" title="RestAssured" width="50px" src="https://rest-assured.io/img/logo.png" />
-  <img alt="Maven" title="Maven" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+  <img alt="Cypress" title="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
+  <img alt="Playwright" title="Playwright" width="40px" src="https://playwright.dev/img/playwright-logo.svg" />
+  <img alt="Selenium" title="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  <img alt="Cucumber" title="Cucumber" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
+  <img alt="TestNG" title="TestNG" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testng/testng-original.svg" />
+  <img alt="JUnit" title="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" />
+  <img alt="RestAssured" title="RestAssured" width="40px" src="https://rest-assured.io/img/logo.png" />
 </p>
 
-### **Linguagens de Programação**
+### **💻 Linguagens & Desenvolvimento**
 <p align="left">
-  <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="TypeScript" title="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="HTML5" title="HTML5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS3" title="CSS3" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="SQL" title="SQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="C#" title="C#" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </p>
 
-### **APIs & Backend**
+### **🌐 APIs & Backend**
 <p align="left">
-  <img alt="REST" title="REST API" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rest/rest-original.svg" />
-  <img alt="Postman" title="Postman" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-  <img alt="Swagger" title="Swagger" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
-  <img alt="Node.js" title="Node.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Spring Boot" title="Spring Boot" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Express" title="Express.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="SOAP" title="SOAP" width="50px" src="https://soapui.org/images/soapui-logo.png" />
+  <img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  <img alt="Swagger" title="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
+  <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Spring Boot" title="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Express" title="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </p>
 
-### **Banco de Dados**
+### **🗄️ Banco de Dados**
 <p align="left">
-  <img alt="MySQL" title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="PostgreSQL" title="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="MongoDB" title="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="SQL Server" title="SQL Server" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img alt="Redis" title="Redis" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" title="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="SQL Server" title="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 </p>
 
-### **DevOps & CI/CD**
+### **🚀 DevOps & CI/CD**
 <p align="left">
-  <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="GitHub Actions" title="GitHub Actions" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-  <img alt="Jenkins" title="Jenkins" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img alt="Docker" title="Docker" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Azure DevOps" title="Azure DevOps" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img alt="Kubernetes" title="Kubernetes" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Jenkins" title="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Azure DevOps" title="Azure DevOps" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </p>
 
-### **Ferramentas de Gestão & Testes**
+### **🛠️ Ferramentas & Gestão**
 <p align="left">
-  <img alt="Jira" title="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <img alt="Qase" title="Qase" width="50px" src="https://qase.io/favicon.ico" />
-  <img alt="Zephyr" title="Zephyr" width="50px" src="https://marketplace.atlassian.com/files/avatar/2b8a0b0e-0b0e-4b0e-8b0e-0b0e0b0e0b0e" />
-  <img alt="TestRail" title="TestRail" width="50px" src="https://www.gurock.com/testrail/favicon.ico" />
-  <img alt="Xray" title="Xray" width="50px" src="https://www.getxray.app/favicon.ico" />
-  <img alt="Confluence" title="Confluence" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+  <img alt="VS Code" title="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Jira" title="Jira" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img alt="Confluence" title="Confluence" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />
+  <img alt="Maven" title="Maven" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" />
+  <img alt="npm" title="npm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </p>
 
-### **Ferramentas de Desenvolvimento**
+### **🤖 IA & Automação**
 <p align="left">
-  <img alt="VS Code" title="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img alt="Cursor" title="Cursor AI" width="50px" src="https://cursor.sh/favicon.ico" />
-  <img alt="Eclipse" title="Eclipse" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img alt="npm" title="npm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img alt="Yarn" title="Yarn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-</p>
-
-### **Sistemas Operacionais**
-<p align="left">
-  <img alt="Windows" title="Windows" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img alt="Linux" title="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Ubuntu" title="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img alt="macOS" title="macOS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-</p>
-
-### **IA & Automação**
-<p align="left">
-  <img alt="OpenAI" title="OpenAI" width="50px" src="https://openai.com/favicon.ico" />
-  <img alt="ChatGPT" title="ChatGPT" width="50px" src="https://chat.openai.com/favicon.ico" />
-  <img alt="GitHub Copilot" title="GitHub Copilot" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-  <img alt="Claude" title="Claude AI" width="50px" src="https://claude.ai/favicon.ico" />
-  <img alt="Gemini" title="Google Gemini" width="50px" src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" />
-</p>
-
-### **Design & Modelagem**
-<p align="left">
-  <img alt="Adobe Photoshop" title="Adobe Photoshop" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img alt="Adobe Illustrator" title="Adobe Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img alt="Adobe InDesign" title="Adobe InDesign" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/indesign/indesign-plain.svg" />
-  <img alt="SketchUp" title="SketchUp" width="50px" src="https://www.sketchup.com/favicon.ico" />
-  <img alt="Figma" title="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</p>
-
-### **Protocolos de Rede**
-<p align="left">
-  <img alt="HTTP" title="HTTP/HTTPS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/http/http-original.svg" />
-  <img alt="TCP/IP" title="TCP/IP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/network/network-original.svg" />
-  <img alt="WebSocket" title="WebSocket" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg" />
+  <img alt="OpenAI" title="OpenAI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" />
+  <img alt="ChatGPT" title="ChatGPT" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chatgpt/chatgpt-original.svg" />
+  <img alt="GitHub Copilot" title="GitHub Copilot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
 ---
