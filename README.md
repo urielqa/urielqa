@@ -1,3 +1,4 @@
+
 # 🚀 Uriel Sampaio  
 ## Engenheiro de Qualidade de Software | QA Engineer
 
@@ -31,7 +32,7 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 - ✅ **API Testing**: REST, Postman, Swagger, RestAssured  
 - ✅ **CI/CD & DevOps**: GitHub Actions, Jenkins, Docker  
 - ✅ **Metodologias Ágeis**: Scrum, Kanban  
-- ✅ **IA Generativa**: Uso de LLMs para gerar cenários, scripts e documentações de teste  
+- ✅ **IA Generativa**: Uso de LLMs para gerar cenários, scripts e documentações de teste
 
 ---
 
@@ -106,7 +107,7 @@ Plataforma simulada de **trading** com foco em **qualidade e validações B3**.
 E-commerce completo desenvolvido em squad com foco em testes e qualidade.  
 💻 **Tecnologias**: HTML, CSS, JavaScript  
 🧩 **Funcionalidades**: Autenticação, catálogo com filtros, carrinho e checkout.  
-🤖 **Desenvolvimento com IA**: Uso de LLMs para gerar cenários e scripts de teste automatizados.  
+🤖 **Desenvolvimento com IA**: Uso de LLMs para gerar cenários e scripts de teste automatizados.
 
 ---
 
@@ -141,18 +142,46 @@ E-commerce completo desenvolvido em squad com foco em testes e qualidade.
 
 ---
 
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urielqa&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urielqa&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ## 🎯 Objetivos Profissionais
 
 - 🚀 Ampliar expertise em **automação e qualidade contínua**  
 - 🤖 Aplicar **IA Generativa** em estratégias de QA  
 - 🧩 Contribuir com **projetos open-source** e comunidades de teste  
-- 🧪 Liderar **iniciativas de qualidade** em times ágeis  
+- 🧪 Liderar **iniciativas de qualidade** em times ágeis
+
+---
+
+## 📞 Vamos Conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:urielsqa@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/5511947013629)
+
+**📧 Email**: urielsqa@gmail.com  
+**📱 WhatsApp**: +55 11 94701-3629  
+**📍 Localização**: Itapevi - SP, Brasil
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ “Qualidade não é acidente — é o resultado de esforço inteligente.” ⭐  
+### ⭐ "Qualidade não é acidente — é o resultado de esforço inteligente." ⭐  
 Feito com ❤️ por **Uriel Sampaio**
 
 </div>
