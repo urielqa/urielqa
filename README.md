@@ -1,5 +1,5 @@
 
-#  Uriel Sampaio
+# 🚀 Uriel Sampaio
 ## Software QA Engineer | Testes Manuais e Automatizados | Cypress | Playwright | API | CI/CD
 
 <div align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 14 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
+Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 12 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
 Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
 
 **Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
@@ -44,28 +44,30 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Habilidades Técnicas
+
+<div align="center">
+
+| **Categoria** | **Habilidades** |
+|---------------|-----------------|
+| **🔧 Automação & Frameworks** | Cypress, Playwright, Selenium, Cucumber (Gherkin), TestNG, JUnit, RestAssured |
+| **💻 Linguagens** | Java, JavaScript, TypeScript, HTML5, CSS3, SQL, C#, Python |
+| **🧩 APIs & Backend** | REST, Postman, Swagger, Node.js, Spring Boot, Express |
+| **🗄️ Banco de Dados** | MySQL, PostgreSQL, MongoDB, SQL Server, Redis |
+| **🚀 CI/CD & DevOps** | Git, GitHub Actions, Jenkins, Docker, Azure DevOps |
+| **📋 Gestão & Versionamento** | Qase, Jira, Zephyr, TestRail, Xray, Git Flow |
+| **⚙️ Ferramentas de Desenvolvimento** | VS Code, Cursor, Eclipse, IntelliJ IDEA, Maven, npm, Yarn |
+
+</div>
 
 ### 🎯 **Principais Stacks**
 <p align="left">
   <img alt="Cypress" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg"/>
   <img alt="Playwright" width="40px" src="https://playwright.dev/img/playwright-logo.svg"/>
+  <img alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
   <img alt="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
   <img alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</p>
-
-### 🔧 **Ferramentas Complementares**
-<p align="left">
-  <img alt="Selenium" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-  <img alt="Cucumber" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
-  <img alt="RestAssured" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="GitHub Actions" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
 
 ---
