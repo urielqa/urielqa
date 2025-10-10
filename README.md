@@ -3,7 +3,7 @@
 
 # 🚀 Uriel Sampaio
 
-### QA Automation Engineer com foco em garantir qualidade contínua e automação inteligente de ponta a ponta
+### Engenheiro de Qualidade de Software com foco em garantir qualidade contínua e automação inteligente de ponta a ponta
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urielqa)
