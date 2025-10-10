@@ -3,7 +3,7 @@
 
 # 🚀 Uriel Sampaio
 
-### Engenheiro de Qualidade de Software com foco em garantir qualidade contínua e automação inteligente de ponta a ponta
+### Engenheiro de Qualidade de Software com foco em testes manuais e automatizados. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urielqa)
@@ -20,6 +20,18 @@
 
 ## 👨‍💻 Sobre Mim
 
+Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 14 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
+Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
+
+> **💡 Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
+
+Especializado em **Cypress**, **Playwright**, **Selenium** e **BDD (Cucumber)**, com domínio de **testes de API (Postman, RestAssured)** e **integração contínua (GitHub Actions, Jenkins, Docker)**.  
+Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção da feature até a entrega em produção, sempre com foco em **liderança técnica** e **qualidade contínua**.
+
+---
+
+## 🔄 Meu Fluxo de Qualidade
+
 <div align="center">
 
 ```mermaid
@@ -33,14 +45,6 @@ graph LR
 ```
 
 </div>
-
-Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 14 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
-Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
-
-> **💡 Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
-
-Especializado em **Cypress**, **Playwright**, **Selenium** e **BDD (Cucumber)**, com domínio de **testes de API (Postman, RestAssured)** e **integração contínua (GitHub Actions, Jenkins, Docker)**.  
-Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção da feature até a entrega em produção, sempre com foco em **liderança técnica** e **qualidade contínua**.
 
 ---
 
