@@ -1,5 +1,5 @@
 
-# 🚀 Uriel Sampaio
+#  Uriel Sampaio
 ## Engenheiro de Qualidade de Software | QA Engineer
 
 <div align="center">
