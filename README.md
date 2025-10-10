@@ -1,5 +1,5 @@
 
-# 🚀 Uriel Sampaio
+#  Uriel Sampaio
 ## Software QA Engineer | Testes Manuais e Automatizados | Cypress | Playwright | API | CI/CD
 
 <div align="center">
