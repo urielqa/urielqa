@@ -1,6 +1,6 @@
 
 # 🚀 Uriel Sampaio
-## Engenheiro de Qualidade de Software | QA Engineer
+## Engenheiro de Qualidade de Software | Testes Manuais e Automatizados | Automação com Cypress, Playwright e BDD
 
 <div align="center">
   
@@ -17,11 +17,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Qualidade de Software** com experiência sólida em **testes manuais e automatizados**, atuando em todas as etapas do ciclo de desenvolvimento (SDLC).  
+Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 12 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
 Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
 
+**Meu diferencial**: Vindo do empreendedorismo, tenho uma postura muito proativa e foco total em resultado. Enquanto muitos esperam uma ordem, eu penso no impacto do sistema no cliente final e busco entregar uma aplicação funcional, validada e segura.
+
 Especializado em **Cypress**, **Playwright**, **Selenium** e **BDD (Cucumber)**, com domínio de **testes de API (Postman, RestAssured)** e **integração contínua (GitHub Actions, Jenkins, Docker)**.  
-Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção da feature até a entrega em produção.
+Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção da feature até a entrega em produção, sempre com foco em **liderança técnica** e **qualidade contínua**.
 
 ---
 
@@ -33,6 +35,12 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 - ✅ **CI/CD & DevOps**: GitHub Actions, Jenkins, Docker  
 - ✅ **Metodologias Ágeis**: Scrum, Kanban  
 - ✅ **IA Generativa**: Uso de LLMs para gerar cenários, scripts e documentações de teste
+
+---
+
+## 🎯 Minha Missão como QA
+
+> *"Minha missão como QA é garantir que o sistema entregue gere **confiança e qualidade** para o usuário final. Busco sempre o equilíbrio entre **eficiência técnica** e **impacto real no cliente**, aplicando **liderança técnica** e **qualidade contínua** em todos os projetos."*
 
 ---
 
