@@ -37,9 +37,7 @@ Sou **Engenheiro de Qualidade de Software** com ampla experiência em testes man
   <img alt="Playwright" title="Playwright" width="40px" src="https://playwright.dev/img/playwright-logo.svg" />
   <img alt="Selenium" title="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   <img alt="Cucumber" title="Cucumber" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-  <img alt="TestNG" title="TestNG" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testng/testng-original.svg" />
   <img alt="JUnit" title="JUnit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" />
-  <img alt="RestAssured" title="RestAssured" width="40px" src="https://rest-assured.io/img/logo.png" />
 </p>
 
 ### **💻 Linguagens & Desenvolvimento**
@@ -90,8 +88,6 @@ Sou **Engenheiro de Qualidade de Software** com ampla experiência em testes man
 
 ### **🤖 IA & Automação**
 <p align="left">
-  <img alt="OpenAI" title="OpenAI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" />
-  <img alt="ChatGPT" title="ChatGPT" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chatgpt/chatgpt-original.svg" />
   <img alt="GitHub Copilot" title="GitHub Copilot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
@@ -110,34 +106,6 @@ Sou **Engenheiro de Qualidade de Software** com ampla experiência em testes man
 | **IA-Assisted Development** | Desenvolvimento e testes com LLMs |
 
 </div>
-
----
-
-## 💼 Experiência Profissional
-
-### 🚀 **E2E Coders** - QA Engineer | *Mar 2025 - Atual*
-
-**Cliente: Wiser Experience (Plataforma de Gestão Empresarial)**
-- ✅ Execução de testes manuais e identificação de defeitos
-- ✅ Gestão de projetos via GitHub com times de desenvolvimento
-- ✅ Testes exploratórios em múltiplas plataformas (Web/Mobile)
-- ✅ Transformação de histórias de usuário em cenários funcionais
-
-**Cliente: Empresa de Educação (Plataforma EAD)**
-- ✅ Desenvolvimento de 50+ testes automatizados (Cypress, Playwright, Selenium)
-- ✅ Criação de cenários BDD (Cucumber/Gherkin)
-- ✅ Automação de APIs REST (JUnit, RestAssured, Postman)
-- ✅ **Redução de 30%** no tempo de execução de testes regressivos
-
-**Cliente: E-commerce (UI e API Testing)**
-- ✅ Testes manuais de UI e validação de APIs REST
-- ✅ Implementação de cenários BDD para melhor comunicação
-- ✅ Registro detalhado de bugs via GitHub Issues
-
-### 📊 **Consultor de Projetos e Qualidade** | *2020 - 2024*
-- ✅ Gestão de projetos digitais com foco em qualidade
-- ✅ Desenvolvimento de protótipos UX/UI e testes exploratórios
-- ✅ Criação de checklists e roteiros de inspeção
 
 ---
 
