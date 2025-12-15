@@ -3,7 +3,7 @@
 
 # 🚀 Uriel Sampaio
 
-### Engenheiro de Qualidade de Software com foco em testes manuais e automatizados. 
+### Analista de Qualidade de Software com foco em testes manuais e automatizados.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urielqa)
@@ -20,13 +20,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Engenheiro de Qualidade de Software** apaixonado por tecnologia desde os 14 anos. Com experiência sólida em **testes manuais e automatizados**, atuo em todas as etapas do ciclo de desenvolvimento (SDLC).  
-Tenho como propósito garantir a **excelência e confiabilidade de produtos digitais** através de automação inteligente, análise técnica e mentalidade de melhoria contínua.
+Sou **Analista de Qualidade de Software** apaixonado por tecnologia desde os 14 anos. Tenho experiência em **testes manuais e automatizados**, participando ativamente do ciclo de desenvolvimento (SDLC).
+Meu objetivo é ajudar a garantir a **qualidade e confiabilidade de produtos digitais** através de testes eficientes e colaboração com a equipe.
 
-> **💡 Meu diferencial**: Background empreendedor com postura proativa e foco em entregar soluções funcionais e seguras para o cliente final.
+> **💡 Meu diferencial**: Entusiasmo por aprender e contribuir com soluções práticas para melhorar a experiência do usuário.
 
-Especializado em **Cypress**, **Playwright**, **Selenium** e **BDD (Cucumber)**, com domínio de **testes de API (Postman, RestAssured)** e **integração contínua (GitHub Actions, Jenkins, Docker)**.  
-Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção da feature até a entrega em produção, sempre com foco em **liderança técnica** e **qualidade contínua**.
+Tenho conhecimento em **Cypress**, **Playwright**, **Selenium** e **BDD (Cucumber)**, além de **testes de API (Postman)** e **integração contínua (GitHub Actions)**.
+Busco sempre melhorar meus processos e aprender com cada projeto.
 
 ---
 
@@ -36,7 +36,7 @@ Adoto uma abordagem **Shift-Left**, contribuindo com o time desde a concepção 
 
 ```mermaid
 graph LR
-    A[🎯 QA Engineer] --> B[🔧 Automação]
+    A[🎯 QA Analyst] --> B[🔧 Automação]
     A --> C[🧪 Testes Manuais]
     A --> D[🤖 IA Generativa]
     B --> E[📊 Qualidade Contínua]
@@ -56,7 +56,7 @@ graph LR
 |------------------|---------------|---------------|-----------|
 | ✅ E2E, Regressão | ✅ Exploratório, Smoke | ✅ CI/CD, Docker | ✅ LLMs, Cenários |
 | ✅ BDD & Gherkin | ✅ API Testing | ✅ GitHub Actions | ✅ Scripts IA |
-| ✅ Cypress, Playwright | ✅ Postman, RestAssured | ✅ Jenkins, Azure | ✅ Documentação |
+| ✅ Cypress, Playwright | ✅ Postman | ✅ Jenkins | ✅ Documentação |
 
 </div>
 
@@ -67,12 +67,12 @@ graph LR
 <div align="center">
 
 ```diff
-+ 🎯 MISSÃO: Garantir confiança e qualidade para o usuário final
-+ ⚡ FOCO: Eficiência técnica + Impacto real no cliente  
-+ 🚀 APLICAÇÃO: Liderança técnica + Qualidade contínua
++ 🎯 MISSÃO: Garantir qualidade e funcionalidade para o usuário final
++ ⚡ FOCO: Eficiência técnica + Impacto positivo no cliente
++ 🚀 APLICAÇÃO: Colaboração + Melhoria contínua
 ```
 
-> *"Minha missão como QA é garantir que o sistema entregue gere **confiança e qualidade** para o usuário final. Busco sempre o equilíbrio entre **eficiência técnica** e **impacto real no cliente**, aplicando **liderança técnica** e **qualidade contínua** em todos os projetos."*
+> *"Minha missão como QA é ajudar a garantir que o sistema funcione bem e seja confiável para o usuário final. Busco equilibrar eficiência e impacto, colaborando com a equipe para melhorar continuamente."*
 
 </div>
 
@@ -82,13 +82,13 @@ graph LR
 
 | **Categoria** | **Habilidades** |
 |---------------|-----------------|
-| **🔧 Automação & Frameworks** | Cypress, Playwright, Selenium, Cucumber (Gherkin), TestNG, JUnit, RestAssured |
-| **💻 Linguagens** | Java, JavaScript, TypeScript, HTML5, CSS3, SQL, C#, Python |
-| **🧩 APIs & Backend** | REST, Postman, Swagger, Node.js, Spring Boot, Express |
-| **🗄️ Banco de Dados** | MySQL, PostgreSQL, MongoDB, SQL Server, Redis |
-| **🚀 CI/CD & DevOps** | Git, GitHub Actions, Jenkins, Docker, Azure DevOps |
-| **📋 Gestão & Versionamento** | Qase, Jira, Zephyr, TestRail, Xray, Git Flow |
-| **⚙️ Ferramentas de Desenvolvimento** | VS Code, Cursor, Eclipse, IntelliJ IDEA, Maven, npm, Yarn |
+| **🔧 Automação & Frameworks** | Cypress, Playwright, Selenium, Cucumber (Gherkin), TestNG, JUnit |
+| **💻 Linguagens** | JavaScript, TypeScript, HTML5, CSS3, SQL, Python |
+| **🧩 APIs & Backend** | REST, Postman, Swagger, Node.js |
+| **🗄️ Banco de Dados** | MySQL, PostgreSQL, MongoDB |
+| **🚀 CI/CD & DevOps** | Git, GitHub Actions, Jenkins, Docker |
+| **📋 Gestão & Versionamento** | Jira, TestRail, Git Flow |
+| **⚙️ Ferramentas de Desenvolvimento** | VS Code, Eclipse, IntelliJ IDEA, npm |
 
 ---
 
@@ -103,7 +103,6 @@ graph LR
   <img alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
   <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img alt="GitHub Actions" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
@@ -117,11 +116,11 @@ graph LR
 
 | 🥇 **Conquista** | 📊 **Métrica** | 💡 **Impacto** |
 |------------------|---------------|----------------|
-| 🚀 **+50 Testes Automatizados** | `30%` redução | Tempo de regressão otimizado |
-| 🎯 **BDD em Projetos Ágeis** | `100%` clareza | Comunicação QA-Dev-PO |
-| ⚙️ **Pipeline CI/CD** | `24/7` execução | Feedback contínuo |
-| 🌐 **Multiplataforma** | `3` ambientes | Cobertura completa |
-| 🤖 **IA em QA** | `40%` economia | Automação inteligente |
+| 🚀 **Testes Automatizados** | `20%` redução | Tempo de testes otimizado |
+| 🎯 **BDD em Projetos** | `Melhoria` clareza | Comunicação na equipe |
+| ⚙️ **Pipeline CI/CD** | `Execução` automática | Feedback rápido |
+| 🌐 **Multiplataforma** | `2` ambientes | Cobertura básica |
+| 🤖 **IA em QA** | `Exploração` inicial | Automação simples |
 
 </div>
 
@@ -133,27 +132,27 @@ graph LR
 
 | 🎯 **Projeto** | 🛠️ **Stack** | 🚀 **Destaque** |
 |----------------|--------------|-----------------|
-| [**💼 E2E Code Brokers**](https://github.com/urielqa/E2E-Code-Brokers) | `HTML5` `CSS3` `JS` `TradingView` | Plataforma de trading com validações B3 |
-| [**🛒 E2E Shop**](https://github.com/urielqa/E2EShop) | `HTML` `CSS` `JavaScript` | E-commerce completo em squad |
-| [**🚀 QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio) | `Cypress` `Playwright` `API` `CI/CD` | **Showcase principal** com pipeline |
-| [**📋 Casos de Teste Manuais**](https://github.com/urielqa/Casos-de-teste-manuais) | `Gherkin` `BDD` `Checklist` | Documentação QA profissional |
+| [**💼 E2E Code Brokers**](https://github.com/urielqa/E2E-Code-Brokers) | `HTML5` `CSS3` `JS` `TradingView` | Plataforma de trading com validações |
+| [**🛒 E2E Shop**](https://github.com/urielqa/E2EShop) | `HTML` `CSS` `JavaScript` | E-commerce simples |
+| [**🚀 QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio) | `Cypress` `Playwright` `API` `CI/CD` | Portfolio com automação |
+| [**📋 Casos de Teste Manuais**](https://github.com/urielqa/Casos-de-teste-manuais) | `Gherkin` `BDD` `Checklist` | Documentação de testes |
 
 ### 🔧 **Projetos Complementares**
 
 | 🎯 **Projeto** | 🛠️ **Stack** | 🚀 **Foco** |
 |----------------|--------------|-------------|
-| [**🔧 Automação de Testes**](https://github.com/urielqa/Automacao-de-testes) | `Selenium` `JUnit` `Java` | **Automação Java** e exemplos clássicos |
+| [**🔧 Automação de Testes**](https://github.com/urielqa/Automacao-de-testes) | `Selenium` `JUnit` `Java` | Exemplos de automação |
 
 </div>
 
 ### 🔥 **Highlights dos Projetos**
 
 ```diff
-+ 💼 E2E Code Brokers: Trading platform com validações B3 e QA Ready
-+ 🛒 E2E Shop: E-commerce desenvolvido em squad com foco em qualidade  
-+ 🚀 QA Portfolio: Showcase PRINCIPAL com Cypress, Playwright, API Testing e CI/CD
-+ 📋 Casos Manuais: Gherkin, BDD, Checklist para colaboração QA-Dev-PO
-+ 🔧 Automação Java: Exemplos complementares com Selenium e JUnit
++ 💼 E2E Code Brokers: Trading platform com validações básicas
++ 🛒 E2E Shop: E-commerce desenvolvido com foco em testes
++ 🚀 QA Portfolio: Portfolio com Cypress, Playwright e API
++ 📋 Casos Manuais: Gherkin e BDD para testes
++ 🔧 Automação Java: Exemplos com Selenium
 ```
 
 ---
@@ -168,7 +167,7 @@ graph TD
     A --> C[⚡ Automação Assistida]
     A --> D[🔍 Análise Inteligente]
     A --> E[📊 Documentação Auto]
-    B --> F[40% Economia de Tempo]
+    B --> F[20% Economia de Tempo]
     C --> F
     D --> F
     E --> F
@@ -178,18 +177,18 @@ graph TD
 
 | 🎯 **Aplicação** | 📊 **Métrica** | 🚀 **Resultado** |
 |------------------|---------------|------------------|
-| **📝 Geração de Cenários** | `40%` economia | Scripts Playwright otimizados |
+| **📝 Geração de Cenários** | `20%` economia | Scripts básicos |
 | **⚡ Automação Assistida** | `LLMs` integrados | Cypress + Playwright |
 | **🔍 Análise Inteligente** | `Copilot` ativo | Identificação de falhas |
-| **📊 Documentação Auto** | `100%` cobertura | Processos e relatórios |  
+| **📊 Documentação Auto** | `Cobertura` inicial | Processos simples |
 
 ---
 
 ## 🎓 Formação
 
-- 🎓 **E2E Treinamentos** – Desenvolvimento e Qualidade de Software *(2025–2026)*  
-- 🎓 **UNIP** – Gestão da Tecnologia da Informação *(2018–2020)*  
-- 🎓 **UNIBES** – Web Design *(2015)*  
+- 🎓 **E2E Treinamentos** – Desenvolvimento e Qualidade de Software *(2025–2026)*
+- 🎓 **UNIP** – Gestão da Tecnologia da Informação *(2018–2020)*
+- 🎓 **UNIBES** – Web Design *(2015)*
 
 ---
 
@@ -197,9 +196,9 @@ graph TD
 
 | 💬 Comunicação | 👑 Visão de Dono | ⚡ Proatividade |
 |----------------|----------------|----------------|
-| Clareza entre QA, Dev e PO | Propõe melhorias e processos | Atua de forma antecipada |
+| Clareza na equipe | Propõe melhorias | Atua de forma ativa |
 | 🤝 Colaboração | 🔧 Resolução de Problemas | 🚀 Inovação |
-| Trabalha bem em squads ágeis | Abordagem analítica | Busca constante por evolução |
+| Trabalha em squads | Abordagem analítica | Busca aprender |
 
 ---
 
@@ -217,10 +216,10 @@ graph TD
 
 ## 🎯 Objetivos Profissionais
 
-- 🚀 Ampliar expertise em **automação e qualidade contínua**  
-- 🤖 Aplicar **IA Generativa** em estratégias de QA  
-- 🧩 Contribuir com **projetos open-source** e comunidades de teste  
-- 🧪 Liderar **iniciativas de qualidade** em times ágeis
+- 🚀 Aprender mais sobre **automação e qualidade**
+- 🤖 Explorar **IA Generativa** em QA
+- 🧩 Contribuir com **projetos open-source**
+- 🧪 Melhorar em **testes ágeis**
 
 ---
 
@@ -229,9 +228,9 @@ graph TD
 <div align="center">
 
 ```diff
-+ 🚀 Pronto para colaborar em projetos de qualidade!
-+ 💡 Vamos discutir automação, testes e inovação em QA
-+ 🤝 Conecte-se e vamos criar algo incrível juntos
++ 🚀 Pronto para aprender e colaborar!
++ 💡 Vamos discutir testes e automação
++ 🤝 Conecte-se e vamos crescer juntos
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uriel-sampaio-728184356/)
@@ -240,13 +239,13 @@ graph TD
 
 ---
 
-**📧 Email**: `urielsqa@gmail.com`  
-**📱 WhatsApp**: `+55 11 94701-3629`  
+**📧 Email**: `urielsqa@gmail.com`
+**📱 WhatsApp**: `+55 11 94701-3629`
 **📍 Localização**: `Itapevi - SP, Brasil`
 
 ---
 
-### ⭐ "Qualidade não é acidente — é o resultado de esforço inteligente." ⭐  
+### ⭐ "Qualidade é importante — vamos trabalhar juntos para alcançá-la." ⭐
 
 <div align="center">
 
@@ -255,3 +254,4 @@ graph TD
 ![Profile Views](https://komarev.com/ghpvc/?username=urielqa&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
 </div>
+
