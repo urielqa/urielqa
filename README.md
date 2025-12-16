@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Analista de Qualidade de Software** apaixonado por tecnologia desde os 14 anos. Tenho experiência em **testes manuais e automatizados**, participando ativamente do ciclo de desenvolvimento (SDLC).
+Sou **Analista de Qualidade de Software** com cerca de 4 anos de experiência, apaixonado por tecnologia desde os 14 anos. Tenho experiência em **testes manuais e automatizados**, participando ativamente do ciclo de desenvolvimento (SDLC).
 Meu objetivo é ajudar a garantir a **qualidade e confiabilidade de produtos digitais** através de testes eficientes e colaboração com a equipe.
 
 > **💡 Meu diferencial**: Entusiasmo por aprender e contribuir com soluções práticas para melhorar a experiência do usuário.
