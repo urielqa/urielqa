@@ -131,6 +131,7 @@ graph LR
 | [**💼 E2E Code Brokers**](https://github.com/urielqa/E2E-Code-Brokers) | `HTML5` `CSS3` `JS` `TradingView` | Automação E2E em plataforma de trading; validação de fluxos e integração com gráficos |
 | [**🛒 E2E Shop**](https://github.com/urielqa/E2EShop) | `HTML` `CSS` `JavaScript` | Suite E2E em e-commerce; cenários de navegação, carrinho e checkout |
 | [**🚀 QA Automation Portfolio**](https://github.com/urielqa/qa-automation-portfolio) | `Cypress` `Playwright` `API` `CI/CD` | Framework de automação Web e API com integração a pipeline; Page Object e boas práticas |
+| [**🎭 CodeceptJS + Playwright**](https://github.com/urielqa/codeceptjs-playwright) | `CodeceptJS` `Playwright` `BDD` `Allure` | Suite E2E para Blog Agibank; BDD/Gherkin, Page Object, relatórios Allure e GitHub Actions |
 | [**📋 Casos de Teste Manuais**](https://github.com/urielqa/Casos-de-teste-manuais) | `Gherkin` `BDD` `Checklist` | Especificação de cenários em BDD; documentação reutilizável para execução manual e automação |
 
 ### 🔧 **Projetos Complementares**
@@ -147,6 +148,7 @@ graph LR
 + 💼 E2E Code Brokers: Automação E2E em plataforma de trading com validação de fluxos
 + 🛒 E2E Shop: Suite E2E para e-commerce (navegação, carrinho, checkout)
 + 🚀 QA Portfolio: Automação Web/API com Cypress e Playwright integrada a CI/CD
++ 🎭 CodeceptJS + Playwright: E2E no Blog Agibank com BDD, Page Object, Allure e CI
 + 📋 Casos Manuais: Cenários BDD e documentação para testes manuais e automação
 + 🔧 Automação Java: Projeto Selenium + JUnit com foco em estrutura e relatórios
 ```
