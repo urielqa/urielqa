@@ -12,7 +12,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55%2011%2094701--3629-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947013629)
 ![Profile Views](https://komarev.com/ghpvc/?username=urielqa&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 
-`Jandira - SP, Brasil` • `+4 anos em QA` • `Disponivel para desafios em Quality Engineering`
+`Jandira - SP, Brasil` • `+4 anos em QA` • `Disponível para desafios em Quality Engineering`
 
 </div>
 
@@ -20,14 +20,14 @@
 
 ## Engenharia de qualidade com ownership
 
-Atuo como **QA Automation Engineer** com mais de **4 anos** em produtos digitais, garantindo qualidade de aplicacoes **Mobile (Android/iOS)**, **Web** e **APIs** em times ageis.
+Atuo como **QA Automation Engineer** com mais de **4 anos** em produtos digitais, garantindo qualidade de aplicações **Mobile (Android/iOS)**, **Web** e **APIs** em times ágeis.
 
-Hoje atuo como **QA unico no squad**, conduzindo a estrategia ponta a ponta:
+Hoje atuo como **QA único no squad**, conduzindo a estratégia ponta a ponta:
 
-- analise de requisitos e mapeamento de risco
-- estrategia de testes por impacto de negocio
-- automacao e testes manuais em fluxos criticos
-- validacao final para release com foco em confiabilidade
+- análise de requisitos e mapeamento de risco
+- estratégia de testes por impacto de negócio
+- automação e testes manuais em fluxos críticos
+- validação final para release com foco em confiabilidade
 
 Trabalho em parceria com **Devs, Product Owner e Scrum Master**, aplicando **Shift-Left** para reduzir risco e aumentar previsibilidade de entrega.
 
@@ -64,28 +64,29 @@ Trabalho em parceria com **Devs, Product Owner e Scrum Master**, aplicando **Shi
 
 ```mermaid
 flowchart LR
-    A[Requisitos e criterios de aceite] --> B[Estrategia de teste por risco]
-    B --> C[Automacao Mobile/Web/API]
-    C --> D[Execucao em CI/CD e device farm]
-    D --> E[Analise de logs e estabilizacao]
+    A[Requisitos e critérios de aceite] --> B[Estratégia de teste por risco]
+    B --> C[Automação Mobile/Web/API]
+    C --> D[Execução em CI/CD e device farm]
+    D --> E[Análise de logs e estabilização]
     E --> F[Release com confiabilidade]
 ```
 
-- **Automacao mobile cross-platform:** Appium + CodeceptJS com BDD e POM, tratando particularidades de Android e iOS.
-- **Confiabilidade em pipeline:** investigacao de falhas por logs, reducao de flaky tests e ajustes apos novas versoes do app.
-- **Validacao critica antes da producao:** testes manuais em homologacao para garantir seguranca de release.
-- **Qualidade orientada a risco:** contribuicao ativa em refinamentos e definicao de criterios de aceite.
+- **Automação mobile cross-platform:** Appium + CodeceptJS com BDD e POM, tratando particularidades de Android e iOS — cobrindo mais de 300 cenários automatizados nos fluxos críticos de negócio.
+- **Confiabilidade em pipeline:** investigação de falhas por logs, redução de flaky tests e ajustes após novas versões do app, reduzindo significativamente defeitos escapados para produção.
+- **Validação crítica antes da produção:** testes manuais em homologação para garantir segurança de release.
+- **Qualidade orientada a risco:** contribuição ativa em refinamentos e definição de critérios de aceite desde o início do desenvolvimento.
 
 ---
 
 ## Destaques profissionais
 
-| Area | Atuacao | Impacto |
+| Área | Atuação | Impacto |
 |------|---------|---------|
-| QA Strategy | QA unico no squad com ownership completo | Menor retrabalho e decisao de qualidade mais rapida |
-| Mobile Automation | Framework Appium + CodeceptJS com BDD/POM | Cobertura consistente e manutencao previsivel |
-| CI/CD Reliability | Diagnostico e estabilizacao de suites | Feedback mais confiavel para o time |
-| Shift-Left | Qualidade desde requisitos | Risco reduzido antes da validacao final |
+| QA Strategy | QA único no squad com ownership completo | Decisões de qualidade mais rápidas e menor retrabalho por sprint |
+| Mobile Automation | Framework Appium + CodeceptJS com BDD/POM | 300+ cenários automatizados cobrindo fluxos críticos em Android e iOS |
+| CI/CD Reliability | Diagnóstico e estabilização de suítes | Redução significativa de bugs escapados para produção |
+| Shift-Left | Qualidade desde os requisitos | Riscos identificados antes do desenvolvimento, não após |
+| Device Farm | Execução em LambdaTest multi-device | Cobertura em múltiplos dispositivos, versões e resoluções Android/iOS |
 
 ---
 
@@ -93,11 +94,12 @@ flowchart LR
 
 | Projeto | Stack | Diferencial |
 |--------|-------|-------------|
-| [E2E Code Brokers](https://github.com/urielqa/E2E-Code-Brokers) | HTML, CSS, JavaScript, TradingView | Automacao E2E para fluxos de trading |
-| [E2E Shop](https://github.com/urielqa/E2EShop) | HTML, CSS, JavaScript | Jornada completa de e-commerce (navegacao, carrinho, checkout) |
-| [QA Automation Portfolio](https://github.com/urielqa/qa-automation-portfolio) | Cypress, Playwright, API, CI/CD | Framework orientado a boas praticas de automacao |
-| [CodeceptJS + Playwright](https://github.com/urielqa/codeceptjs-playwright) | CodeceptJS, Playwright, BDD, Allure | POM + BDD + pipeline para execucao continua |
-| [Casos de Teste Manuais](https://github.com/urielqa/Casos-de-teste-manuais) | Gherkin, BDD, Checklist | Base de cenarios para validacao manual e automacao |
+| [E2E Code Brokers](https://github.com/urielqa/E2E-Code-Brokers) | HTML, CSS, JavaScript, TradingView | Automação E2E para fluxos de trading em plataforma financeira |
+| [E2E Shop](https://github.com/urielqa/E2EShop) | HTML, CSS, JavaScript | Jornada completa de e-commerce — navegação, carrinho e checkout |
+| [QA Automation Portfolio](https://github.com/urielqa/qa-automation-portfolio) | Cypress, Playwright, API, CI/CD | Framework orientado a boas práticas de automação com pipeline integrado |
+| [CodeceptJS + Playwright](https://github.com/urielqa/codeceptjs-playwright) | CodeceptJS, Playwright, BDD, Allure | POM + BDD + pipeline para execução contínua com relatório Allure |
+| [Automação de Testes](https://github.com/urielqa/Automacao-de-testes) | Selenium, JUnit, Cypress, Playwright | Cobertura Web, API e CI/CD com múltiplos frameworks |
+| [Casos de Teste Manuais](https://github.com/urielqa/Casos-de-teste-manuais) | Gherkin, BDD, Checklist | Base de cenários em três formatos — Checklist, Passo a Passo e BDD |
 
 ---
 
@@ -115,7 +117,7 @@ flowchart LR
 
 ## Mentalidade de qualidade
 
-> "Qualidade nao e apenas testar funcionalidades. E engenharia de confiabilidade, estrategia de risco e responsabilidade direta sobre a entrega."
+> "Qualidade não é apenas testar funcionalidades. É engenharia de confiabilidade, estratégia de risco e responsabilidade direta sobre a entrega."
 
 ---
 
@@ -127,8 +129,8 @@ flowchart LR
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urielsqa@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511947013629)
 
-**Email:** `urielsqa@gmail.com`  
-**WhatsApp:** `+55 11 94701-3629`  
-**Localizacao:** `Jandira - SP, Brasil`
+**Email:** `urielsqa@gmail.com`
+**WhatsApp:** `+55 11 94701-3629`
+**Localização:** `Jandira - SP, Brasil`
 
 </div>
